@@ -1,0 +1,9 @@
+{
+	"name": "screambots",
+	"version": "0.1.0",
+	"title": "Screaming Bots",
+	"author": "Cave-of-Kobolds",
+	"factorio_version": "1.1",
+	"dependencies": ["base >= 1.1"],
+	"description": "Make your hardworking bots feel pain when you neglect them."
+  }
